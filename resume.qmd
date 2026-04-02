@@ -1,0 +1,73 @@
+---
+title: "Resume"
+toc: true
+---
+
+## Education
+
+**University of Michigan, Ann Arbor** — Ann Arbor, MI
+M.S. in Biostatistics
+
+**University of California Los Angeles** — Los Angeles, CA
+B.S. in Statistics and Data Science
+---
+
+## Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| Programming | R, Python, SQL, GitHub |
+| Tools | Microsoft Office (Excel, Word, PowerPoint) |
+| Statistical Methods | Multivariable linear & logistic regression, interaction modeling, survival analysis, model diagnostics, experimental design & ANOVA, predictive modeling & evaluation |
+
+---
+
+## Research Experience
+
+**University of Michigan, Arvind Rao's Lab** — Ann Arbor, MI
+*Student Research | Jan 2026 – Present*
+
+- Developed a bioinformatics pipeline to predict drugs that can redirect non-responsive cancer patients toward immunotherapy response by modeling tumor microenvironment (TME) cell–cell communication networks.
+- Integrated bulk RNA-seq deconvolution (InstaPrism), ligand–receptor network scoring, and LASSO/glmnet to identify therapeutic steering factors (TSFs).
+- Applied Fisher–Rao information geometry to model responder manifolds and quantify patient state shifts under simulated drug perturbations.
+- Implemented drug perturbation simulation framework and ranked candidate drugs based on predicted movement toward responder state across cancer cohorts (e.g., IMvigor210, NSCLC datasets).
+
+---
+
+## Professional Experience
+
+**Apexus Tech** — Remote
+*Data Analyst Intern | Sep 2024 – Oct 2024*
+
+- Led data extraction and analysis projects, using Python to retrieve financial data from multiple APIs, including Yahoo Finance, Tushare, and FRED.
+- Developed Python scripts to collect and analyze daily ETF prices and integrated technical indicators to create a tool that identifies potential investment opportunities.
+- Applied statistical techniques and interactive visualizations with Plotly to present data insights and improve the accuracy of investment decision-making.
+- Produced a comprehensive report on the role of data analysis in quantitative trading, explored key strategies and the application of machine learning in enhancing investment outcomes.
+- Researched the top quantitative hedge funds and compared discretionary and quantitative investment methods, contributing to the company's strategic insights.
+
+**China Mobile** — Zhengzhou, CN
+*Financial Analyst Intern | Aug 2023 – Sep 2023*
+
+- Assisted in analyzing customer usage data to identify trends and patterns, helping the marketing team develop targeted promotional strategies.
+- Supported the team in preparing detailed reports on network performance metrics via statistical methods to assess service quality and identify areas for improvement.
+- Collaborated with senior analysts to perform regression analysis on customer data, identifying key factors influencing customer satisfaction and retention.
+- Conducted a detailed analysis of customer demographics to provide insights, contributing to a 10% increase in campaign effectiveness.
+- Utilized statistical software to automate data processing tasks, reducing data analysis time by 20% and improving overall efficiency in the department.
+
+**YS Locker** — Ontario, CA
+*Manager Assistant | Aug 2022 – Aug 2023*
+
+- Analyzed income and expense statements monthly to identify inefficiencies, implementing cost-saving measures to improve profitability.
+- Managed monthly reconciliation of revenue share payments with clients to ensure accuracy and timely delivery, leading to a 98% on-time payment rate.
+- Developed and maintained strong relationships with clients, increasing client retention by 15% through consistent and personalized service.
+- Identified and pursued potential business opportunities from the existing client base, expanding services and contributing to a 10% increase in overall revenue.
+- Streamlined operational processes to reduce overhead costs by 8% while maintaining high service standards and customer satisfaction.
+
+---
+
+## Extracurricular Experience
+
+**UCLA Financial Investment and Technology (FIT)** — Los Angeles, CA
+*Data Analysis Department Member | Oct 2023 – Jun 2025*
+
+- Utilized Python to perform daily financial data visualizations to provide critical insights for the investment department.

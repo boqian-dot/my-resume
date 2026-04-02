@@ -1,0 +1,19 @@
+---
+title: "Boqian Mao"
+about:
+  template: jolla
+  image: "Profile.JPG"
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/boqian-dot
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/boqian8344b93bb/
+---
+
+boqian@umich.edu | +1 626-489-6124
+
+## About Me
+
+Hi, I’m Boqian Mao, a graduate student in the Department of Biostatistics at the University of Michigan. I’m passionate about applying statistical techniques to real-world problems and exploring the power of machine learning in finance, health care, and other related fields.

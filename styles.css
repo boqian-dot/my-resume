@@ -1,0 +1,74 @@
+/* ---- General ---- */
+body {
+  font-family: "Georgia", serif;
+}
+
+h1, h2, h3 {
+  color: #00274C; /* UMich Blue */
+}
+
+a {
+  color: #FFCB05; /* UMich Maize */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #00274C;
+  text-decoration: underline;
+}
+
+/* ---- Navbar ---- */
+.navbar {
+  background-color: #00274C !important;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #FFCB05 !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ffffff !important;
+}
+
+/* ---- About page ---- */
+.quarto-about-jolla .about-links .about-link {
+  border: 1px solid #00274C;
+  color: #00274C;
+  border-radius: 4px;
+}
+
+/* ---- Footer ---- */
+.nav-footer {
+  background-color: #00274C;
+  color: #ffffff;
+  font-size: 0.9rem;
+}
+
+.nav-footer a {
+  color: #FFCB05;
+}
+
+/* ---- Tables ---- */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  background-color: #00274C;
+  color: white;
+  padding: 8px;
+}
+
+td {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* ---- Section dividers ---- */
+hr {
+  border: none;
+  border-top: 2px solid #FFCB05;
+  margin: 2rem 0;
+}

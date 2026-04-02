@@ -1,0 +1,55 @@
+---
+title: "Projects"
+toc: true
+---
+
+## Statistical & Data Science Projects
+
+### Heart & Mind: Depression, Gender, and Systolic Blood Pressure
+*Dec 2025*
+
+Conducted a population-level analysis using NHANES data to evaluate gender-specific effects of depression on systolic blood pressure.
+
+- Developed multivariable linear regression models with interaction terms, adjusting for demographic and clinical covariates.
+- Performed model diagnostics, influence analysis, and hypothesis testing to support valid statistical inference.
+- Found statistically significant gender differences in the association between depression severity and SBP; results interpreted on log-transformed outcome.
+
+**Methods:** Multivariable linear regression, interaction modeling, model diagnostics, hypothesis testing
+
+---
+
+### Type II Diabetes Risk Prediction Using Electronic Health Records
+*Dec 2024*
+
+Cleaned and analyzed large-scale EHR data (~100,000 patients) to identify predictors of Type II diabetes.
+
+- Performed extensive exploratory data analysis and feature selection across demographic, lifestyle, and physiological variables.
+- Built and evaluated logistic regression and gradient boosting models, incorporating clinically meaningful interaction terms.
+- Achieved ~92% accuracy and AUC > 0.96 using GBM; evaluated model performance via cross-validation, ROC/AUC, sensitivity, and specificity.
+
+**Methods:** Logistic regression, gradient boosting (GBM), cross-validation, ROC/AUC
+
+---
+
+### Effect of Musical Instrument Training on Cognitive Performance
+*Aug 2024*
+
+Designed and analyzed a two-way randomized block experiment to study intervention effects on mental arithmetic performance.
+
+- Applied ANOVA with interaction terms and post-hoc comparisons.
+- Diagnosed model assumptions using residual plots and interaction plots, interpreted heteroscedasticity and outliers.
+
+**Methods:** Two-way ANOVA, post-hoc comparisons, experimental design
+
+---
+
+### Covid-19 Impact on Education
+*May 2025*
+
+Collaborated with an interdisciplinary team on a public-facing research website examining the effects of Covid-19 on educational equity.
+
+- Served as data specialist responsible for cleaning, structuring, and organizing project datasets.
+- Prepared analysis-ready data to support data visualization and digital publication workflows.
+- Project: [equityexplorer.humspace.ucla.edu](https://equityexplorer.humspace.ucla.edu/)
+
+**Role:** Data Specialist | **Tools:** Python, data wrangling

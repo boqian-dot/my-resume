@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Boqian Mao",
+    "section": "",
+    "text": "boqian@umich.edu | +1 626-489-6124"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Boqian Mao",
+    "section": "About Me",
+    "text": "About Me\nHi, I’m Boqian Mao, a graduate student in the Department of Biostatistics at the University of Michigan. I’m passionate about applying statistical techniques to real-world problems and exploring the power of machine learning in finance, health care, and other related fields."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "University of Michigan, Ann Arbor — Ann Arbor, MI M.S. in Biostatistics\nUniversity of California Los Angeles — Los Angeles, CA B.S. in Statistics and Data Science"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "",
+    "text": "University of Michigan, Ann Arbor — Ann Arbor, MI M.S. in Biostatistics\nUniversity of California Los Angeles — Los Angeles, CA B.S. in Statistics and Data Science"
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Resume",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\n\n\n\n\n\n\nCategory\nSkills\n\n\n\n\nProgramming\nR, Python, SQL, GitHub\n\n\nTools\nMicrosoft Office (Excel, Word, PowerPoint)\n\n\nStatistical Methods\nMultivariable linear & logistic regression, interaction modeling, survival analysis, model diagnostics, experimental design & ANOVA, predictive modeling & evaluation"
+  },
+  {
+    "objectID": "resume.html#research-experience",
+    "href": "resume.html#research-experience",
+    "title": "Resume",
+    "section": "Research Experience",
+    "text": "Research Experience\nUniversity of Michigan, Arvind Rao’s Lab — Ann Arbor, MI Student Research | Jan 2026 – Present\n\nDeveloped a bioinformatics pipeline to predict drugs that can redirect non-responsive cancer patients toward immunotherapy response by modeling tumor microenvironment (TME) cell–cell communication networks.\nIntegrated bulk RNA-seq deconvolution (InstaPrism), ligand–receptor network scoring, and LASSO/glmnet to identify therapeutic steering factors (TSFs).\nApplied Fisher–Rao information geometry to model responder manifolds and quantify patient state shifts under simulated drug perturbations.\nImplemented drug perturbation simulation framework and ranked candidate drugs based on predicted movement toward responder state across cancer cohorts (e.g., IMvigor210, NSCLC datasets)."
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Resume",
+    "section": "Professional Experience",
+    "text": "Professional Experience\nApexus Tech — Remote Data Analyst Intern | Sep 2024 – Oct 2024\n\nLed data extraction and analysis projects, using Python to retrieve financial data from multiple APIs, including Yahoo Finance, Tushare, and FRED.\nDeveloped Python scripts to collect and analyze daily ETF prices and integrated technical indicators to create a tool that identifies potential investment opportunities.\nApplied statistical techniques and interactive visualizations with Plotly to present data insights and improve the accuracy of investment decision-making.\nProduced a comprehensive report on the role of data analysis in quantitative trading, explored key strategies and the application of machine learning in enhancing investment outcomes.\nResearched the top quantitative hedge funds and compared discretionary and quantitative investment methods, contributing to the company’s strategic insights.\n\nChina Mobile — Zhengzhou, CN Financial Analyst Intern | Aug 2023 – Sep 2023\n\nAssisted in analyzing customer usage data to identify trends and patterns, helping the marketing team develop targeted promotional strategies.\nSupported the team in preparing detailed reports on network performance metrics via statistical methods to assess service quality and identify areas for improvement.\nCollaborated with senior analysts to perform regression analysis on customer data, identifying key factors influencing customer satisfaction and retention.\nConducted a detailed analysis of customer demographics to provide insights, contributing to a 10% increase in campaign effectiveness.\nUtilized statistical software to automate data processing tasks, reducing data analysis time by 20% and improving overall efficiency in the department.\n\nYS Locker — Ontario, CA Manager Assistant | Aug 2022 – Aug 2023\n\nAnalyzed income and expense statements monthly to identify inefficiencies, implementing cost-saving measures to improve profitability.\nManaged monthly reconciliation of revenue share payments with clients to ensure accuracy and timely delivery, leading to a 98% on-time payment rate.\nDeveloped and maintained strong relationships with clients, increasing client retention by 15% through consistent and personalized service.\nIdentified and pursued potential business opportunities from the existing client base, expanding services and contributing to a 10% increase in overall revenue.\nStreamlined operational processes to reduce overhead costs by 8% while maintaining high service standards and customer satisfaction."
+  },
+  {
+    "objectID": "resume.html#extracurricular-experience",
+    "href": "resume.html#extracurricular-experience",
+    "title": "Resume",
+    "section": "Extracurricular Experience",
+    "text": "Extracurricular Experience\nUCLA Financial Investment and Technology (FIT) — Los Angeles, CA Data Analysis Department Member | Oct 2023 – Jun 2025\n\nUtilized Python to perform daily financial data visualizations to provide critical insights for the investment department."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Dec 2025\nConducted a population-level analysis using NHANES data to evaluate gender-specific effects of depression on systolic blood pressure.\n\nDeveloped multivariable linear regression models with interaction terms, adjusting for demographic and clinical covariates.\nPerformed model diagnostics, influence analysis, and hypothesis testing to support valid statistical inference.\nFound statistically significant gender differences in the association between depression severity and SBP; results interpreted on log-transformed outcome.\n\nMethods: Multivariable linear regression, interaction modeling, model diagnostics, hypothesis testing\n\n\n\n\nDec 2024\nCleaned and analyzed large-scale EHR data (~100,000 patients) to identify predictors of Type II diabetes.\n\nPerformed extensive exploratory data analysis and feature selection across demographic, lifestyle, and physiological variables.\nBuilt and evaluated logistic regression and gradient boosting models, incorporating clinically meaningful interaction terms.\nAchieved ~92% accuracy and AUC &gt; 0.96 using GBM; evaluated model performance via cross-validation, ROC/AUC, sensitivity, and specificity.\n\nMethods: Logistic regression, gradient boosting (GBM), cross-validation, ROC/AUC\n\n\n\n\nAug 2024\nDesigned and analyzed a two-way randomized block experiment to study intervention effects on mental arithmetic performance.\n\nApplied ANOVA with interaction terms and post-hoc comparisons.\nDiagnosed model assumptions using residual plots and interaction plots, interpreted heteroscedasticity and outliers.\n\nMethods: Two-way ANOVA, post-hoc comparisons, experimental design\n\n\n\n\nMay 2025\nCollaborated with an interdisciplinary team on a public-facing research website examining the effects of Covid-19 on educational equity.\n\nServed as data specialist responsible for cleaning, structuring, and organizing project datasets.\nPrepared analysis-ready data to support data visualization and digital publication workflows.\nProject: equityexplorer.humspace.ucla.edu\n\nRole: Data Specialist | Tools: Python, data wrangling"
+  },
+  {
+    "objectID": "projects.html#statistical-data-science-projects",
+    "href": "projects.html#statistical-data-science-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Dec 2025\nConducted a population-level analysis using NHANES data to evaluate gender-specific effects of depression on systolic blood pressure.\n\nDeveloped multivariable linear regression models with interaction terms, adjusting for demographic and clinical covariates.\nPerformed model diagnostics, influence analysis, and hypothesis testing to support valid statistical inference.\nFound statistically significant gender differences in the association between depression severity and SBP; results interpreted on log-transformed outcome.\n\nMethods: Multivariable linear regression, interaction modeling, model diagnostics, hypothesis testing\n\n\n\n\nDec 2024\nCleaned and analyzed large-scale EHR data (~100,000 patients) to identify predictors of Type II diabetes.\n\nPerformed extensive exploratory data analysis and feature selection across demographic, lifestyle, and physiological variables.\nBuilt and evaluated logistic regression and gradient boosting models, incorporating clinically meaningful interaction terms.\nAchieved ~92% accuracy and AUC &gt; 0.96 using GBM; evaluated model performance via cross-validation, ROC/AUC, sensitivity, and specificity.\n\nMethods: Logistic regression, gradient boosting (GBM), cross-validation, ROC/AUC\n\n\n\n\nAug 2024\nDesigned and analyzed a two-way randomized block experiment to study intervention effects on mental arithmetic performance.\n\nApplied ANOVA with interaction terms and post-hoc comparisons.\nDiagnosed model assumptions using residual plots and interaction plots, interpreted heteroscedasticity and outliers.\n\nMethods: Two-way ANOVA, post-hoc comparisons, experimental design\n\n\n\n\nMay 2025\nCollaborated with an interdisciplinary team on a public-facing research website examining the effects of Covid-19 on educational equity.\n\nServed as data specialist responsible for cleaning, structuring, and organizing project datasets.\nPrepared analysis-ready data to support data visualization and digital publication workflows.\nProject: equityexplorer.humspace.ucla.edu\n\nRole: Data Specialist | Tools: Python, data wrangling"
+  }
+]
