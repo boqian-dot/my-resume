@@ -1,5 +1,6 @@
 ---
 title: "Boqian Mao"
+toc: false
 about:
   template: jolla
   image: "Profile.JPG"
